@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Diagnostics;
-using ApplicationInsights.Helpers;
 using ApplicationInsights.Listener;
 using Microsoft.ApplicationInsights;
 

@@ -22,6 +22,7 @@
     "Microsoft.Extensions.Options.ConfigurationExtensions": "1.0.0",
     "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0",
     "ApplicationInsights.SDK": "0.0.1",
+    "ApplicationInsights.SDK.Browser": "0.0.1",
     "Microsoft.EntityFrameworkCore.SqlServer": "1.0.1"
   },
 
