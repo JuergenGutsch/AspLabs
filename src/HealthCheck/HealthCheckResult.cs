@@ -5,6 +5,8 @@
         public CheckStatus CheckStatus { get; }
         public string Description { get; }
 
+        public string CodeToChange { get; }
+
         private HealthCheckResult(CheckStatus checkStatus, string description)
         {
             CheckStatus = checkStatus;
